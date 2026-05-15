@@ -1,7 +1,7 @@
-# Smart Pillows
+# Travel Journal
 
 ## Overview
-Sleep tracking and pillow comfort analytics.
+Personal travel memories and itinerary organizer.
 
 ## Features
 - User-friendly interface
@@ -11,8 +11,8 @@ Sleep tracking and pillow comfort analytics.
 
 ## Installation
 ```bash
-git clone https://github.com/username/smart-pillows.git
-cd smart-pillows
+git clone https://github.com/username/travel-journal.git
+cd travel-journal
 ```
 
 ## Usage
